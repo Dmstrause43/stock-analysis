@@ -11,7 +11,7 @@ The original code that we used, which contained nested for loops, performed slow
   'image
   
   Refactored Code (2017):
-  'image
+  ![VBA_Challenge_2017](https://user-images.githubusercontent.com/75653952/105877595-c7c98180-5fc5-11eb-863b-4c5e6ae70c5c.png)
   
   Nested For Loop Code (2018):
   'image
