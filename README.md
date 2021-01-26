@@ -8,7 +8,7 @@ The purpose of this project was to summarize stock ticker performance throughout
 The original code that we used, which contained nested for loops, performed slower than the refactored code, which utilized a single for loop that went through all the data and printed it in one loop. The results are as follows
 
   Nested For Loop Code (2017):
-  'image
+  ![Stock_Analysis - Screenshot_2017_NestedForLoop](https://user-images.githubusercontent.com/75653952/105877723-e62f7d00-5fc5-11eb-97c2-1cb77d5d211a.png)
   
   Refactored Code (2017):
   ![VBA_Challenge_2017](https://user-images.githubusercontent.com/75653952/105877595-c7c98180-5fc5-11eb-863b-4c5e6ae70c5c.png)
