@@ -14,7 +14,7 @@ The original code that we used, which contained nested for loops, performed slow
   ![VBA_Challenge_2017](https://user-images.githubusercontent.com/75653952/105877595-c7c98180-5fc5-11eb-863b-4c5e6ae70c5c.png)
   
   Nested For Loop Code (2018):
-  'image
+  ![Stock_Analysis - Screenshot_2018_NestedForLoop](https://user-images.githubusercontent.com/75653952/105877807-fb0c1080-5fc5-11eb-9621-796b2fbf31c0.png)
   
   Refactored Code (2018):
   ![VBA_Challenge_2018](https://user-images.githubusercontent.com/75653952/105877684-db74e800-5fc5-11eb-83ef-fe95ce27c363.png)
